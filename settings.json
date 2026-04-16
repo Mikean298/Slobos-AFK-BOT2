@@ -8,7 +8,7 @@
   "server": {
     "ip": "khanhcrafter.aternos.me",
     "port": 30471,
-    "version": "1.21.1"
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
