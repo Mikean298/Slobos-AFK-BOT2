@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "khanhcrafter.aternos.me",
+    "ip": "khanhcrafter.aternos.me:30471",
     "port": 30471,
     "version": "1.21"
   },
